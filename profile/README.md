@@ -16,23 +16,13 @@ DAC is a Layer-1 blockchain built to align investor rewards with stable, predict
 - **Sustainable & Compliant**  
   Energy-efficient consensus, on-chain governance, designed for global regulatory standards.
 
-Documentation & Resources
+## Documentation & Resources
  - Official website: https://www.dachain.tech/
  - Whitepaper: https://whitepaper.dachain.tech/
  - Documentation: https://docs.dachain.tech
+ - Tokenomics: https://tokenomics.dachain.tech
 
-Tokenomics
- - Public Sale: 10%
- - Marketing: 7.5%
- - Institutional Investors: 12.5%
- - Team: 15%
- - Private Investors: 17.5%
- - Reserve: 15%
- - Grant Program: 5%
- - Enterprise Incentives: 5%
- - Market Making & Liquidity: 12.5%
- 
-**Community & Social**
+## Community & Social
 
 Stay connected and get the latest updates:
  - Twitter: https://twitter.com/Dac_Chain
